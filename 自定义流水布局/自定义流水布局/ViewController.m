@@ -19,7 +19,7 @@ static NSString * const CYPhotoId = @"photo";
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    // new submission test
     // 创建布局
     CYLineLayout *layout = [[CYLineLayout alloc] init];
     layout.itemSize = CGSizeMake(100, 100);
